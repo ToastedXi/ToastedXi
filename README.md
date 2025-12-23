@@ -18,8 +18,17 @@ This is a fresh profile where I’ll be sharing smaller projects, experiments, a
 ● Cloud:          AWS | Azure | Cloudflare
 ● Design:         Photoshop (ps) | After Effects (ae) | Illustrator (ai) | Audition (au) | Blender
 ● Tools:          Git | VS Code (vscode) | Visual Studio (visualstudio) | Notion
-                                                                                  📋
+                                                                                  
 ```
+---
+### A Bit About Me
+
+- 🐴 I have 13 horses
+- ☕ Its a coffee routine not an addiction.
+- 🚧 Currently learning Full-Stack Web Development & CyberSecurity Fundamentals. 
+- 🔥 I like to learn new things using different tools.
+---
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,bots,prisma,supabase,bootstrap,cloudflare" />
