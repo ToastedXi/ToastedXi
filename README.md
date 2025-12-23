@@ -1,4 +1,4 @@
-###Hey there 👋
+##Hey there 👋
 
 I’m Brodie, also known as Toasted, a self-taught web developer and aspiring Cybersecurity SOC Analyst from London, United Kingdom.
 
