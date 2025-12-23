@@ -10,7 +10,7 @@ This is a fresh profile where I’ll be sharing smaller projects, experiments, a
 ### Tools & Tech
 
 ```text
-💖 tech-stack --list
+💖 tech-stack
 ● Languages:      HTML | CSS | JavaScript | TypeScript | Tailwind CSS | Python
 ● Frameworks:     React | Bootstrap
 ● Bots:           Discord.js (bots)
