@@ -1,3 +1,5 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,php,nodejs&theme=dark)](https://skillicons.dev)
+[![Coding Skills](https://skillicons.dev/icons?i=html,css,js,py,bots,prisma,supabase,bootstrap,cloudflare)](https://skillicons.dev)
+[![Design Skills](https://skillicons.dev/icons?i=ps,ae,ai,au,blender)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=aws,azure,git,visualstudio,notion)](https://skillicons.dev)
